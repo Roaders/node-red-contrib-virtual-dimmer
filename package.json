@@ -1,0 +1,10 @@
+{
+  "name": "node-red-contrib-virtual-dimmer",
+  "version": "0.0.1",
+  "description": "A virtual dimmer for node-red",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "author": "Giles Roadnight",
+  "license": "ISC"
+}
